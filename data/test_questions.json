@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "question": "I have been experiencing chest pain, tightness, and shortness of breath. Sometimes my left arm feels numb too.",
+    "gold_passage": "Dr. Arthur Pendelton"
+  },
+  {
+    "id": 2,
+    "question": "I keep getting severe headaches and my vision goes blurry sometimes. I also had a seizure last week.",
+    "gold_passage": "Dr. Elena Rostova"
+  },
+  {
+    "id": 3,
+    "question": "My knee is swollen and painful after a sports injury. I am having trouble walking and bending my leg.",
+    "gold_passage": "Dr. Marcus Vance"
+  },
+  {
+    "id": 4,
+    "question": "I have a persistent itchy rash on my arms and my skin is becoming very dry and flaky with red patches.",
+    "gold_passage": "Dr. Sophia Chen"
+  },
+  {
+    "id": 5,
+    "question": "I have been having severe stomach pain, bloating, and acid reflux after every meal. Sometimes I feel nauseous too.",
+    "gold_passage": "Dr. Robert Thorne"
+  },
+  {
+    "id": 6,
+    "question": "I am having difficulty breathing and I keep coughing at night. I feel wheezing in my chest when I breathe.",
+    "gold_passage": "Dr. Amara Okoro"
+  },
+  {
+    "id": 7,
+    "question": "I am always feeling very tired, gaining weight, and feeling cold all the time. My blood sugar levels are also high.",
+    "gold_passage": "Dr. Liam Patel"
+  },
+  {
+    "id": 8,
+    "question": "I have been feeling very anxious and depressed for months. I cannot sleep properly and have panic attacks.",
+    "gold_passage": "Dr. Rachel Green"
+  },
+  {
+    "id": 9,
+    "question": "My vision has been getting blurry and I see floaters in my eyes. My eyes also feel dry and irritated.",
+    "gold_passage": "Dr. David Sterling"
+  },
+  {
+    "id": 10,
+    "question": "I have ear pain and difficulty hearing. I also have a blocked and runny nose with a sore throat.",
+    "gold_passage": "Dr. Fiona Gallagher"
+  },
+  {
+    "id": 11,
+    "question": "I have pain when urinating and I feel the urge to urinate very frequently but very little comes out.",
+    "gold_passage": "Dr. Kenji Sato"
+  },
+  {
+    "id": 12,
+    "question": "I have irregular periods with severe cramps and pelvic pain. I also noticed unusual discharge.",
+    "gold_passage": "Dr. Sarah Jenkins"
+  },
+  {
+    "id": 13,
+    "question": "My child has a high fever, rash on the body, and has not been eating for two days. The child is very irritable.",
+    "gold_passage": "Dr. Jonathan Brooks"
+  },
+  {
+    "id": 14,
+    "question": "I found a lump in my breast and I have been losing weight without trying. I feel extremely fatigued.",
+    "gold_passage": "Dr. Miriam Al-Mansoor"
+  },
+  {
+    "id": 15,
+    "question": "My legs are swelling and I have been urinating less than usual. My urine looks foamy and I feel very tired.",
+    "gold_passage": "Dr. Victor Vance"
+  }
+]

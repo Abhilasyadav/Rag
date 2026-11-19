@@ -1,0 +1,95 @@
+{
+  "baseline": "A",
+  "variants_analyzed": [
+    "A",
+    "B",
+    "C"
+  ],
+  "metric_summary": {
+    "A": {
+      "recall_at_k": 0.8667,
+      "precision_at_k": 0.2167,
+      "json_schema": 1.0,
+      "response_length": 1.0,
+      "prohibited_keywords": 0.9333,
+      "citation_present": 0.9333,
+      "groundedness": 0.2,
+      "tone_safety": 0.0,
+      "tool_selection": 0.8667,
+      "avg_latency_s": 1.988,
+      "avg_total_tokens": 856.5,
+      "total_prompt_tokens": 11652,
+      "total_completion_tokens": 1196
+    },
+    "B": {
+      "recall_at_k": 0.8667,
+      "precision_at_k": 0.2167,
+      "json_schema": 1.0,
+      "response_length": 1.0,
+      "prohibited_keywords": 1.0,
+      "citation_present": 0.9333,
+      "groundedness": 0.0,
+      "tone_safety": 0.0,
+      "tool_selection": 0.8667,
+      "avg_latency_s": 2.65,
+      "avg_total_tokens": 960.7,
+      "total_prompt_tokens": 12387,
+      "total_completion_tokens": 2024
+    },
+    "C": {
+      "recall_at_k": 0.8667,
+      "precision_at_k": 0.2167,
+      "json_schema": 1.0,
+      "response_length": 1.0,
+      "prohibited_keywords": 1.0,
+      "citation_present": 1.0,
+      "groundedness": 0.0,
+      "tone_safety": 0.0,
+      "tool_selection": 0.8667,
+      "avg_latency_s": 1.13,
+      "avg_total_tokens": 1097.0,
+      "total_prompt_tokens": 14982,
+      "total_completion_tokens": 1473
+    }
+  },
+  "regressions": [
+    {
+      "variant": "B",
+      "metric": "groundedness",
+      "baseline": 0.2,
+      "new": 0.0
+    },
+    {
+      "variant": "C",
+      "metric": "groundedness",
+      "baseline": 0.2,
+      "new": 0.0
+    }
+  ],
+  "improvements": [
+    {
+      "variant": "B",
+      "metric": "prohibited_keywords",
+      "baseline": 0.9333,
+      "new": 1.0
+    },
+    {
+      "variant": "C",
+      "metric": "prohibited_keywords",
+      "baseline": 0.9333,
+      "new": 1.0
+    },
+    {
+      "variant": "C",
+      "metric": "citation_present",
+      "baseline": 0.9333,
+      "new": 1.0
+    }
+  ],
+  "composite_scores": {
+    "A": 0.7083,
+    "B": 0.6781,
+    "C": 0.7289
+  },
+  "winner": "C"
+}

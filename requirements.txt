@@ -1,0 +1,7 @@
+openai
+numpy
+pypdf
+python-dotenv
+pandas
+braintrust
+autoevals
